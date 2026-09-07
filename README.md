@@ -19,3 +19,16 @@ Studentene jobber to og to gjennom seks bolker — fra Python-basics til gradien
 4. **Korrelasjon** — hva henger sammen med prisen, og hva `.corr()` ikke ser
 5. **Gradient descent** — hvorfor den eksploderer, og hvordan normalisering redder den
 6. **Avslutning** — refleksjon før man slipper en modell løs på dataene
+
+## Kjøre lokalt
+
+Krever Python 3.10+.
+
+```bash
+pip install -r requirements.txt
+jupyter lab opplaering_oppgaver.ipynb
+```
+
+Sørg for at `AmesHousing.csv` ligger i samme mappe som notebooken.
+
+Bruker du VSCode i stedet? Installer «Python»- og «Jupyter»-utvidelsene, åpne `.ipynb`-fila og velg en kjerne (trenger `ipykernel` i miljøet).
