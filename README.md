@@ -19,7 +19,3 @@ Studentene jobber to og to gjennom seks bolker — fra Python-basics til gradien
 4. **Korrelasjon** — hva henger sammen med prisen, og hva `.corr()` ikke ser
 5. **Gradient descent** — hvorfor den eksploderer, og hvordan normalisering redder den
 6. **Avslutning** — refleksjon før man slipper en modell løs på dataene
-
-## Kjøring
-
-Åpne notebooken i [Google Colab](https://colab.research.google.com/) (`File → Upload notebook`) og last opp `AmesHousing.csv` ved siden av. Alternativt lokalt med Jupyter — krever `pandas`, `numpy` og `matplotlib`.
