@@ -8,8 +8,7 @@ Studentene jobber to og to gjennom seks bolker — fra Python-basics til gradien
 
 | Fil | Beskrivelse |
 |-----|-------------|
-| `opplaering_oppgaver.ipynb` | **Oppgavesett** — deles ut til studentene. Hull å fylle ut, ingen fasit. |
-| `opplaering_fasit.ipynb` | **Fasitsett** — for kursholder. Alle svar og utfylte celler. |
+| `opplaering_oppgaver.ipynb` | **Oppgavesett** — deles ut til studentene. Hull å fylle ut. |
 | `AmesHousing.csv` | Datasettet (2930 hus × 82 kolonner, komma-separert). |
 
 ## Bolker
